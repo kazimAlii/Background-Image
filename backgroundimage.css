@@ -1,0 +1,54 @@
+body {
+    background-image: url('./images/win.jpg');
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 7rem;
+    margin-left: 55px;
+
+}
+
+.div-one {
+    color: lightgray;
+    text-align: left;
+    text-transform: capitalize;
+}
+
+.h-one {
+    color: #a3a3a3;
+    margin: 0px;
+    font-size: 11px;
+    padding-left: 30px;
+    padding-bottom: px;
+    letter-spacing: 4px;
+}
+
+.para-one {
+    margin-top: 26px;
+    letter-spacing: 3px;
+    font-size: 3rem;
+    padding-right: 150px;
+    line-height: 60px;
+}
+
+.BUTTON-ONE {
+    padding: 13px 26px;
+    font-family: sans-serif;
+    font-weight: bold;
+    border: 1px solid white;
+    background-color: #00ffff00;
+    color: #a79d9d;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.BUTTON-TWO {
+    padding: 13px 26px;
+    font-family: sans-serif;
+    font-weight: bold;
+    border: 1px solid white;
+    background-color: #00ffff00;
+    color: #a79d9d;
+    cursor: pointer;
+    border-radius: 4px;
+}
